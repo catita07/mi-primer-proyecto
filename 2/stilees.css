@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+#amarillo{
+    width: 950px;
+    background-color: #dfe958;
+    margin: 0 auto;
+    padding: 20px;
+}
+      
+
+img{
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#azul{
+    width: 950px;
+    background-color: #6287ec;
+    margin: 0 auto;
+    padding: 20px;
+}
+#rojo{
+    width: 950px;
+    background-color: #ee7d7d;
+    margin: 0 auto;
+    padding: 20px;
+}
+#verde{
+    width: 980px;
+    background-color: #35863c;
+    margin: 0 auto;
+    padding: 5px;
+}
+h5{
+    text-align: center;
+    text-decoration: black;
+}
